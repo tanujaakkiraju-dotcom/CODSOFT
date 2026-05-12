@@ -1,31 +1,44 @@
-# Titanic Survival Prediction
+##Titanic Survival Prediction
 
-This project uses Machine Learning to predict whether a passenger survived the Titanic disaster based on features such as age, gender, passenger class, and fare.
+This project uses Machine Learning to predict whether a passenger survived the Titanic disaster based on features such as age, gender, passenger class, fare, family information, and passenger titles.
 
-## Technologies Used
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
+>Technologies Used
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Scikit-learn
+XGBoost
+Machine Learning Models Used
+Logistic Regression
+Random Forest Classifier
+XGBoost Classifier
+Final Model Accuracy
 
-## Machine Learning Model
-- Logistic Regression
+The XGBoost Classifier achieved an accuracy of 82.12%, demonstrating strong predictive performance in identifying passenger survival patterns based on multiple passenger attributes.
 
-## Model Accuracy
-The Logistic Regression model achieved an accuracy of 79.32%, demonstrating a strong ability to predict passenger survival based on various passenger attributes.
+>Feature Engineering
 
-## Project Workflow
-1. Data Collection
-2. Data Cleaning
-3. Data Visualization
-4. Feature Selection
-5. Model Training
-6. Prediction
-7. Accuracy Evaluation
+Additional features were created to improve model performance:
 
-## Key Insights
-- Female passengers had a higher survival rate.
-- First-class passengers had better survival chances.
-- Survival rate was lower among third-class passengers.
+FamilySize
+IsAlone
+Passenger Title Extraction
+Project Workflow
+Data Collection
+Data Cleaning
+Data Visualization
+Feature Engineering
+Feature Selection
+Model Training
+Prediction
+Accuracy Evaluation
+Model Comparison
+
+>Key Insights
+Female passengers had a higher survival rate.
+First-class passengers had better survival chances.
+Survival rate was lower among third-class passengers.
+Family relationships influenced survival probability.
+Passenger titles such as Mrs and Miss showed higher survival rates compared to Mr.
