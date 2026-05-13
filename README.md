@@ -49,3 +49,7 @@ Additional features were created to improve model performance:
 * Survival rate was lower among third-class passengers.
 * Family relationships influenced survival probability.
 * Passenger titles such as Mrs and Miss showed higher survival rates compared to Mr.
+
+## Conclusion
+
+This project successfully applied Machine Learning techniques to predict Titanic passenger survival using real-world data. Through data preprocessing, feature engineering, visualization, and model comparison, the XGBoost Classifier achieved the best performance with an accuracy of 82.12%. The project also provided valuable insights into the factors that influenced passenger survival during the Titanic disaster.
