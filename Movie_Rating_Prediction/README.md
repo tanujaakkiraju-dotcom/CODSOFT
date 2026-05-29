@@ -67,7 +67,7 @@ Among all tested models, the XGBoost Regressor achieved the best overall perform
 The final XGBoost model achieved:
 
 * **R² Score:** 0.34
-* **Root Mean Squared Error (RMSE):** 1.10
+* **Root Mean Squared Error (RMSE):** 1.09
 
 The results demonstrate the effectiveness of ensemble boosting techniques and feature engineering for predicting movie ratings using real-world movie data.
 
