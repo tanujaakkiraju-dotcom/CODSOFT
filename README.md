@@ -35,3 +35,5 @@ This repository contains Machine Learning and Data Science projects completed as
 
 ## Internship
 Completed as part of the CODSOFT Data Science Internship Program.
+
+Note: If GitHub notebook preview is unavailable, notebooks can be viewed through NBViewer.
