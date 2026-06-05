@@ -1,4 +1,3 @@
-
 # Sales Prediction Using Multiple Linear Regression
 
 ## Project Overview
@@ -91,16 +90,20 @@ The model predicts sales using the following independent variables:
 
 The model was evaluated using the following metrics:
 
-- Mean Absolute Error (MAE)
-- Mean Squared Error (MSE)
-- Root Mean Squared Error (RMSE)
-- R² Score
+- Mean Absolute Error (MAE) 
+- Mean Squared Error (MSE)  
+- Root Mean Squared Error (RMSE) 
+- R² Score 
 
 ### Model Performance
 
 ## Model Evaluation
 
 The performance of the Multiple Linear Regression model was evaluated using standard regression metrics, including Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R² Score.
+
+**R² Score:** 0.90
+**Root Mean Squared Error (RMSE):** 1.70
+
 
 The model achieved a high level of prediction accuracy, with an R² Score of approximately 90.59%. The low error values indicate that the predicted sales values are very close to the actual sales values, demonstrating the reliability and effectiveness of the model for sales forecasting.
 
