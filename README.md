@@ -104,6 +104,7 @@ A Machine Learning classification project that identifies fraudulent credit card
 - NumPy
 - Matplotlib
 - Seaborn
+- Imbalanced-learn (SMOTE)
 - Scikit-learn
 
 **Key Highlights**
@@ -118,19 +119,24 @@ A Machine Learning classification project that identifies fraudulent credit card
 
 ## Skills Demonstrated
 
-- Data Cleaning
-- Data Preprocessing
+- Data Cleaning and Preprocessing
 - Exploratory Data Analysis (EDA)
 - Data Visualization
 - Feature Engineering
-- Classification Algorithms
-- Regression Algorithms
+- Classification Modeling
+- Regression Modeling
+- XGBoost
+- Ensemble Learning
 - Fraud Detection
-- Model Evaluation
+- Model Evaluation and Comparison
 - Machine Learning
 - Python Programming
 
----
+--
+
+### Development Tools
+- Jupyter Notebook
+- VS Code
 
 ## Note
 
